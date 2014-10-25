@@ -1,0 +1,4 @@
+Guichet
+=======
+
+Projet collaboratif
